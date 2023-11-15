@@ -18,7 +18,7 @@ int main(){
     for (int i =0 ; i< n; i++){
         cin >> a[i];
 
-    }cout << " Mang vua nhap la :";
+    }cout << " Mang vua nhap la so:";
     for ( int i = 0 ; i <n ;i++){
         cout << a[i]<< " ";
     }
